@@ -1,6 +1,9 @@
 __author__ = 'jasonfungsing'
 
 
+# Top-down merge sort
+
+# devide
 def mergeSort(input):
     inputSize = len(input)
     if inputSize == 1:
@@ -17,7 +20,7 @@ def mergeSort(input):
         right = mergeSort(right)
         return merge(left, right)
 
-
+# conquer
 def merge(left, right):
     result = []
     while (len(left) > 0 and None != left) or (len(right) > 0 and None != right):

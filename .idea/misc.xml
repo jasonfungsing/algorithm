@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ProjectKey">
-    <option name="state" value="https://github.com/jasonfungsing/algorithm.git" />
+    <option name="state" value="https://jasonfungsing@github.com/jasonfungsing/algorithm.git" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.6 (/Library/Frameworks/Python.framework/Versions/2.7/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7.5 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python)" project-jdk-type="Python SDK" />
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
